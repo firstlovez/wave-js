@@ -7,7 +7,7 @@ from . import CONF_JK_BMS_ID, JkBms
 
 DEPENDENCIES = ["jk_bms"]
 
-CODEOWNERS = ["@syssi"]
+CODEOWNERS = ["@firstlovez"]
 
 CONF_CHARGING = "charging"
 CONF_CHARGING_SWITCH = "charging_switch"
