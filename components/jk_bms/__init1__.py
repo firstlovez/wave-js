@@ -5,7 +5,7 @@ from esphome.const import CONF_ICON, CONF_ID
 
 from .. import CONF_JK_BMS_BLE_ID, JK_BMS_BLE_COMPONENT_SCHEMA, jk_bms_ble_ns
 
-DEPENDENCIES = ["jk_bms_ble"]
+DEPENDENCIES = ["jk_bms"]
 
 CODEOWNERS = ["@firstlovez"]
 
