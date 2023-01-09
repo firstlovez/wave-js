@@ -68,13 +68,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-3fb71f896836.js"></script>
   
 
-  <title>esphome-jk-bms/__init__.py at main · syssi/esphome-jk-bms</title>
+  <title>esphome-jk-bms/jk_switch.h at main · syssi/esphome-jk-bms</title>
 
 
 
     
 
-  <meta name="request-id" content="9ADE:07A4:28F4518:2DDCEBE:63BBE8D4" data-turbo-transient="true" /><meta name="html-safe-nonce" content="f9206c68f775eb0484ba693820ed232424b40578e2553489acd8334aeb4d5049" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9zeXNzaS9lc3Bob21lLWprLWJtcy90cmVlL21haW4vY29tcG9uZW50cy9qa19ibXNfYmxlL3N3aXRjaCIsInJlcXVlc3RfaWQiOiI5QURFOjA3QTQ6MjhGNDUxODoyRERDRUJFOjYzQkJFOEQ0IiwidmlzaXRvcl9pZCI6IjM2ODEwODAyMDAzMzk1MzMzMzgiLCJyZWdpb25fZWRnZSI6InNvdXRoZWFzdGFzaWEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="5e45b24d9ccedafed8b16f51015a74f7564fe9e8b334e876a97b1f1cfe895a3e" data-turbo-transient="true" />
+  <meta name="request-id" content="9AE0:0F33:2634C7C:2AD123D:63BBE929" data-turbo-transient="true" /><meta name="html-safe-nonce" content="f9206c68f775eb0484ba693820ed232424b40578e2553489acd8334aeb4d5049" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9zeXNzaS9lc3Bob21lLWprLWJtcy90cmVlL21haW4vY29tcG9uZW50cy9qa19ibXNfYmxlL3N3aXRjaCIsInJlcXVlc3RfaWQiOiI5QUUwOjBGMzM6MjYzNEM3QzoyQUQxMjNEOjYzQkJFOTI5IiwidmlzaXRvcl9pZCI6IjM2ODEwODAyMDAzMzk1MzMzMzgiLCJyZWdpb25fZWRnZSI6InNvdXRoZWFzdGFzaWEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="55e1e487124a55790f42065b69aebe27d46b3419a795dc2f4b0ea95ea184960d" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:393891577" data-turbo-transient>
@@ -108,16 +108,16 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="ESPHome component to monitor a Jikong Battery Management System (JK-BMS) via RS485 or BLE - esphome-jk-bms/__init__.py at main · syssi/esphome-jk-bms">
+      <meta name="description" content="ESPHome component to monitor a Jikong Battery Management System (JK-BMS) via RS485 or BLE - esphome-jk-bms/jk_switch.h at main · syssi/esphome-jk-bms">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/6a16bbe9a6f027f5514c1e6ef0d87d6361259ff1fba65492ff755c837e527b54/syssi/esphome-jk-bms" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="esphome-jk-bms/__init__.py at main · syssi/esphome-jk-bms" /><meta name="twitter:description" content="ESPHome component to monitor a Jikong Battery Management System (JK-BMS) via RS485 or BLE - esphome-jk-bms/__init__.py at main · syssi/esphome-jk-bms" />
-      <meta property="og:image" content="https://opengraph.githubassets.com/6a16bbe9a6f027f5514c1e6ef0d87d6361259ff1fba65492ff755c837e527b54/syssi/esphome-jk-bms" /><meta property="og:image:alt" content="ESPHome component to monitor a Jikong Battery Management System (JK-BMS) via RS485 or BLE - esphome-jk-bms/__init__.py at main · syssi/esphome-jk-bms" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="esphome-jk-bms/__init__.py at main · syssi/esphome-jk-bms" /><meta property="og:url" content="https://github.com/syssi/esphome-jk-bms" /><meta property="og:description" content="ESPHome component to monitor a Jikong Battery Management System (JK-BMS) via RS485 or BLE - esphome-jk-bms/__init__.py at main · syssi/esphome-jk-bms" />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/6a16bbe9a6f027f5514c1e6ef0d87d6361259ff1fba65492ff755c837e527b54/syssi/esphome-jk-bms" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="esphome-jk-bms/jk_switch.h at main · syssi/esphome-jk-bms" /><meta name="twitter:description" content="ESPHome component to monitor a Jikong Battery Management System (JK-BMS) via RS485 or BLE - esphome-jk-bms/jk_switch.h at main · syssi/esphome-jk-bms" />
+      <meta property="og:image" content="https://opengraph.githubassets.com/6a16bbe9a6f027f5514c1e6ef0d87d6361259ff1fba65492ff755c837e527b54/syssi/esphome-jk-bms" /><meta property="og:image:alt" content="ESPHome component to monitor a Jikong Battery Management System (JK-BMS) via RS485 or BLE - esphome-jk-bms/jk_switch.h at main · syssi/esphome-jk-bms" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="esphome-jk-bms/jk_switch.h at main · syssi/esphome-jk-bms" /><meta property="og:url" content="https://github.com/syssi/esphome-jk-bms" /><meta property="og:description" content="ESPHome component to monitor a Jikong Battery Management System (JK-BMS) via RS485 or BLE - esphome-jk-bms/jk_switch.h at main · syssi/esphome-jk-bms" />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/122088113/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjIwODgxMTMsInMiOjEwMjU3NDg1NTksImMiOjM4OTA3MDcyNDUsInQiOjE2NzMyNTkyMjF9--bf0e3f10d5908bd3ec373695a5345d732f72b8f43347bfdb825148317bbc2fc5" data-refresh-url="/_alive" data-session-id="c20a36471405da63972e08aacd3ea8d6600572d87dd1217543272b7da8262279">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/122088113/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjIwODgxMTMsInMiOjEwMjU3NDg1NTksImMiOjY5MDc1MzExMywidCI6MTY3MzI1OTMwNX0=--ce92b289a9542541cf3eb55a7fbe5f2b7dbb934542c0c78b0f26e423bbbcd9ab" data-refresh-url="/_alive" data-session-id="c20a36471405da63972e08aacd3ea8d6600572d87dd1217543272b7da8262279">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -147,7 +147,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/__init__.py" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/jk_switch.h" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -240,7 +240,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="Ak4nkRJPdrXgMjUWm4v8VVM9krWIdwMcA47NVHeyWdRa4SHJqf0aBLIJJ_Q6TX9b7KMMo0SuIXtRY7j-jdB2aQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="tn-UeQlBUC-ZLWCVa5VI5IiTcp7NXgNCkLbxIWi4hITu0JIhsvM8nssWcnfKU8vqNw3siAGHISXCW4SLktqrOQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -439,7 +439,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;firstlovez&quot;,&quot;originating_url&quot;:&quot;https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/__init__.py&quot;,&quot;user_id&quot;:122088113}}" data-hydro-click-hmac="f0eb3abe4db52239b4cea4821c45749468f7274991e73202a946b29de94f8829" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;firstlovez&quot;,&quot;originating_url&quot;:&quot;https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/jk_switch.h&quot;,&quot;user_id&quot;:122088113}}" data-hydro-click-hmac="83befa01b4e577026df884a9dd61a27cf6f59e2ba60569e9beee429d1e24aec8" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -447,7 +447,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/122088113?s=40&amp;v=4" width="20" height="20" alt="@firstlovez" />
       firstlovez
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_jNU1h7nt6rHpwD_0J-Fx0JsFisL54d-cw3CivD4Saxm0fS4valFNiEvtJqrsUHLB3W1oPPINm-_w-smbuMsaw" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="HFGI1SOOWGQGV2_YmPFoPi-zbcwTxQnbDeUcEN40MxuEsyi7gMCq-ODf273j36wyaqrOR-vquMrBKzW8QC9W3A" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -482,7 +482,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTIyMDg4MTEzIiwidCI6MTY3MzI1OTIyMX0=--0f9ba8c6c4472f2b81141c023aea676b8489f70dee6af5fbb1b7246a2a891112" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTIyMDg4MTEzIiwidCI6MTY3MzI1OTMwNX0=--e2f937e2478555fb0e193407f05d8101033894d3258f806e333598a33a7a84ce" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -640,7 +640,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/__init__.py
+      return-to=/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/jk_switch.h
       user-id="122088113"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1607,7 +1607,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:393891577,&quot;originating_url&quot;:&quot;https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/__init__.py&quot;,&quot;user_id&quot;:122088113}}" data-hydro-click-hmac="700b236ee8f4361dc791010bad48953880ac902cd15ad9788466157042432b19" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:393891577,&quot;originating_url&quot;:&quot;https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/jk_switch.h&quot;,&quot;user_id&quot;:122088113}}" data-hydro-click-hmac="b6750af60e7f0c6a6e12eb1de618908e475e2a37d4836e998210438b1d91f8b1" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1659,7 +1659,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jenK-9VsLxWOWLQC5aX2n3_8oFQ1fM-5I3tsfGF70ywFCgE9mDgviBc5SL1FfgD9hYFDtthPnXePwxRBaCeBSw" autocomplete="off" />
+              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DLWcrqPTf1fC79UDihD6hcFZ3vRtdpz3Hql6sZNKXneEVldo7od_yluOKbwqywznOyQ9FoBFzjmyEQKMmhYMEA" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="393891577">
 
@@ -1787,7 +1787,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TuHVZDo8TZj-zlu6JVScrng0522gZGUbtrzhTDu4RCzGAh6id2hNBWevpwWFj2rMgkkEj01XN9UaBJlxMuQWSw" autocomplete="off" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="evmj-mtDR87E1YtGKo4rmBWV9VaYyS2shyo0CTBHF0nyGmg8JhdHU120d_mKVd367-gWtHX6f2Irkkw0ORtFLg" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="393891577">
 
@@ -1930,7 +1930,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup">
-        <a icon="repo-forked" href="/syssi/esphome-jk-bms/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:393891577,&quot;originating_url&quot;:&quot;https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/__init__.py&quot;,&quot;user_id&quot;:122088113}}" data-hydro-click-hmac="30922959c303aa828dc8b5f0420f0e3f96c1ff048999f379a23ca92aa8fe4302" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of syssi/esphome-jk-bms" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a icon="repo-forked" href="/syssi/esphome-jk-bms/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:393891577,&quot;originating_url&quot;:&quot;https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/jk_switch.h&quot;,&quot;user_id&quot;:122088113}}" data-hydro-click-hmac="23e62c5e6d20424451d63909eac82be068f6a773086e0465f118befc13c0bac4" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of syssi/esphome-jk-bms" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="23" data-view-component="true" class="Counter">23</span>
@@ -1948,13 +1948,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-3e094c">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-44eae2">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-3e094c"
+        id="filter-menu-44eae2"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1996,10 +1996,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/syssi/esphome-jk-bms/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0TTBuz49JWf7f6Gti8u7_8hjeTi8OAUeaoi-lM8HhR7vVgWTyuMVNkaN96SqAyLauqUx9Ii8_MpzdcyoKJnIXg" autocomplete="off" />
-          <input type="hidden" value="fbc8MQbzY5Q7--_ZpFQNCqU8j-4OsK6in9sm7rrs2apD1fgZ8i1TxYYJudCFnJQv1_rHIjo0V3aGJlTSXXKU6g" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/syssi/esphome-jk-bms/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OBslYx6MXVoZkpsPtsoZtqKk5-JL-0Z_HRcVyv_NArkGeeFL6lJtC6RgzQaXAoCT0GKvLn9_v6sE6mf2GFNP-Q" autocomplete="off" />
+          <input type="hidden" value="s5T1-u63fi1paalEAaMnim909io4XRnADdz842Nqf6GN9jHSGmlOfNSb_00ga76vHbK-5gzZ4BQUIY7fhPQy4Q" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:393891577,&quot;originating_url&quot;:&quot;https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/__init__.py&quot;,&quot;user_id&quot;:122088113}}" data-hydro-click-hmac="15d8abd639b93f8c04317cf08db1dab7c3e2ce32cad2a7c33215f754131409c1" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (117)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:393891577,&quot;originating_url&quot;:&quot;https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/jk_switch.h&quot;,&quot;user_id&quot;:122088113}}" data-hydro-click-hmac="546548ac00a8d3e2f3d197aa4bc1df70e3cad56a071d9a89bc346c4062f4b998" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (117)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2017,13 +2017,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-6db1ab">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-818d7a">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-6db1ab"
+        id="filter-menu-818d7a"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2044,9 +2044,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/syssi/esphome-jk-bms/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NljO_UunUqet2-coarjp96jJ_qe4vwncku9Ia-D11gB48O6f2-8CxXgmrjxyieTHsewvhPC1LtbOzXvAOQGKBw" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/syssi/esphome-jk-bms/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ZHAwR9QGQmc_h0tQKDqbj--pxVfKLPFrCTXXt-cFP7gq2BAlRE4SBep6AkQwC5a_9owUdIIm1mFVF-QcPvFjvw" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:393891577,&quot;originating_url&quot;:&quot;https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/__init__.py&quot;,&quot;user_id&quot;:122088113}}" data-hydro-click-hmac="67122fd712ac9218dcfa24b4c0f009d4028c7c2d86f6c8632a61ccb15e2b2c51" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (117)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:393891577,&quot;originating_url&quot;:&quot;https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/jk_switch.h&quot;,&quot;user_id&quot;:122088113}}" data-hydro-click-hmac="aca1ac34365556f19cc1aa0cce18407fb90785c2afc87a0dd72f386abac766e9" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (117)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2064,13 +2064,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-6db1ab">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-818d7a">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-6db1ab"
+        id="filter-menu-818d7a"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2257,7 +2257,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/syssi/esphome-jk-bms/blob/278772a25e8a696405e7b8026b6d4a027d2ec013/components/jk_bms_ble/switch/__init__.py">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/syssi/esphome-jk-bms/blob/278772a25e8a696405e7b8026b6d4a027d2ec013/components/jk_bms_ble/switch/jk_switch.h">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2265,7 +2265,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:393891577,&quot;originating_url&quot;:&quot;https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/__init__.py&quot;,&quot;user_id&quot;:122088113}}" data-hydro-click-hmac="e7c9c5e59f44095e27633a19e11efdfd1b216b47471ee2a4f89876586e588176">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:393891577,&quot;originating_url&quot;:&quot;https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/jk_switch.h&quot;,&quot;user_id&quot;:122088113}}" data-hydro-click-hmac="74cf5bb5e6e1052661659c0f7b1156fa8eb0f06860727a4a58205d4040368e07">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2346,7 +2346,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/syssi/esphome-jk-bms/blob/{{ urlEncodedRefName }}/components/jk_bms_ble/switch/__init__.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/syssi/esphome-jk-bms/blob/{{ urlEncodedRefName }}/components/jk_bms_ble/switch/jk_switch.h" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2388,7 +2388,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/syssi/esphome-jk-bms/blob/{{ urlEncodedRefName }}/components/jk_bms_ble/switch/__init__.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/syssi/esphome-jk-bms/blob/{{ urlEncodedRefName }}/components/jk_bms_ble/switch/jk_switch.h" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2449,54 +2449,7 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/syssi/esphome-jk-bms"><span>esphome-jk-bms</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/syssi/esphome-jk-bms/tree/main/components"><span>components</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/syssi/esphome-jk-bms/tree/main/components/jk_bms_ble"><span>jk_bms_ble</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/syssi/esphome-jk-bms/tree/main/components/jk_bms_ble/switch"><span>switch</span></a></span><span class="separator">/</span><strong class="final-path">__init__.py</strong>
-      <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
-    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:393891577,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/__init__.py&quot;,&quot;user_id&quot;:122088113}}" data-hydro-click-hmac="58bf8149107d92ee45755965dce70fb05ee53222bc112ef2970a423ecb20dab2" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
-</svg>
-    <span data-menu-button>Jump to</span>
-    <span class="dropdown-caret"></span>
-</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
-    <div class="SelectMenu-modal">
-      <header class="SelectMenu-header">
-        <span class="SelectMenu-title">Code definitions</span>
-        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
-          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
-</svg>
-        </button>
-      </header>
-        <div class="SelectMenu-filter">
-          <input
-            class="SelectMenu-input form-control js-filterable-field"
-            id="jumpto-symbols-filter-field"
-            type="text"
-            autocomplete="off"
-            spellcheck="false"
-            autofocus
-            placeholder="Filter definitions"
-            aria-label="Filter definitions">
-        </div>
-      <div class="SelectMenu-list">
-        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
-            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:393891577,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/__init__.py&quot;,&quot;user_id&quot;:122088113}}" data-hydro-click-hmac="38239a42663e4f2caf8681d06238b319679fd83cff2f1a1b65e619037455212a" href="/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/__init__.py#L52">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>to_code</span>
-              <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>        </div>
-      </div>
-      <footer class="SelectMenu-footer">
-        <div class="d-flex flex-justify-between">
-          Code navigation index up-to-date
-          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-        </div>
-      </footer>
-    </div>
-  </details-menu>
-</details>
-
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/syssi/esphome-jk-bms"><span>esphome-jk-bms</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/syssi/esphome-jk-bms/tree/main/components"><span>components</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/syssi/esphome-jk-bms/tree/main/components/jk_bms_ble"><span>jk_bms_ble</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/syssi/esphome-jk-bms/tree/main/components/jk_bms_ble/switch"><span>switch</span></a></span><span class="separator">/</span><strong class="final-path">jk_switch.h</strong>
   </h2>
     <a href="/syssi/esphome-jk-bms/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2507,7 +2460,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:393891577,&quot;originating_url&quot;:&quot;https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/__init__.py&quot;,&quot;user_id&quot;:122088113}}" data-hydro-click-hmac="1a8de1c6a54034829101ae591d5b1834ffcf112e47f26824289f39443b718ccb" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/syssi/esphome-jk-bms/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:393891577,&quot;originating_url&quot;:&quot;https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/jk_switch.h&quot;,&quot;user_id&quot;:122088113}}" data-hydro-click-hmac="e54c99bc530527cb7a81a4cb15bfc3dc3991d559f8e7ba7b5ef5a6ca6e005784" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/syssi/esphome-jk-bms/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2517,21 +2470,15 @@
               <span class="text-small color-fg-muted" aria-hidden="true">L</span>
             </span>
 </button>        </li>
-        <li data-toggle-for="blob-more-options-details">
-            <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">    <span class="d-flex flex-items-baseline">
-              <span class="flex-auto">Go to definition</span>
-              <span class="text-small color-fg-muted" aria-hidden="true">R</span>
-            </span>
-</button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="components/jk_bms_ble/switch/__init__.py" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="components/jk_bms_ble/switch/jk_switch.h" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/syssi/esphome-jk-bms/blob/278772a25e8a696405e7b8026b6d4a027d2ec013/components/jk_bms_ble/switch/__init__.py" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/syssi/esphome-jk-bms/blob/278772a25e8a696405e7b8026b6d4a027d2ec013/components/jk_bms_ble/switch/jk_switch.h" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2563,80 +2510,17 @@
     <include-fragment src="/syssi/esphome-jk-bms/spoofed_commit_check/278772a25e8a696405e7b8026b6d4a027d2ec013" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  
-  <div class="Box-header Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="author" data-hovercard-type="user" data-hovercard-url="/users/syssi/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/syssi"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/2735933?s=48&amp;v=4" width="24" height="24" alt="@syssi" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/syssi/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/syssi">syssi</a>
+  <include-fragment src="/syssi/esphome-jk-bms/contributors/main/components/jk_bms_ble/switch/jk_switch.h" class="commit-loader">
+    <div class="Box-header d-flex flex-items-center">
+      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
+    </div>
 
-              <span class="markdown-title">
-                <a data-pjax="true" title="Fix icon validation (#161)" class="Link--secondary" href="/syssi/esphome-jk-bms/commit/4079c22eaa40786ffa0cabd45d0d98326a1fdd29">Fix icon validation (</a><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1357718756" data-permission-text="Title is private" data-url="https://github.com/syssi/esphome-jk-bms/issues/161" data-hovercard-type="pull_request" data-hovercard-url="/syssi/esphome-jk-bms/pull/161/hovercard" href="https://github.com/syssi/esphome-jk-bms/pull/161">#161</a><a data-pjax="true" title="Fix icon validation (#161)" class="Link--secondary" href="/syssi/esphome-jk-bms/commit/4079c22eaa40786ffa0cabd45d0d98326a1fdd29">)</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/syssi/esphome-jk-bms/commit/4079c22eaa40786ffa0cabd45d0d98326a1fdd29/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
-        </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/syssi/esphome-jk-bms/commit/4079c22eaa40786ffa0cabd45d0d98326a1fdd29" data-pjax>4079c22</a>
-            <span itemprop="dateModified"><relative-time datetime="2022-08-31T18:48:00Z" class="no-wrap">Aug 31, 2022</relative-time></span>
-          </span>
-
-          <a data-pjax href="/syssi/esphome-jk-bms/commits/main/components/jk_bms_ble/switch/__init__.py" class="ml-3 no-wrap Link--primary no-underline">
-            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
-    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
-</svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
-        </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
-      <summary class="Link--primary">
-        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
-    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
-</svg>
-        <strong>1</strong>
-        
-        contributor
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/syssi/esphome-jk-bms/contributors-list/main/components/jk_bms_ble/switch/__init__.py" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
-</svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment>
-          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-        </include-fragment>
-      </details-dialog>
-    </details>
-  </div>
-</div>
+    <div class="Box-body d-flex flex-items-center" >
+      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment></div>
 
 
 
@@ -2660,23 +2544,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      63 lines (53 sloc)
+      32 lines (27 sloc)
       <span class="file-info-divider"></span>
-    2.06 KB
+    908 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/syssi/esphome-jk-bms/raw/278772a25e8a696405e7b8026b6d4a027d2ec013/components/jk_bms_ble/switch/__init__.py" href="/syssi/esphome-jk-bms/raw/main/components/jk_bms_ble/switch/__init__.py" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/syssi/esphome-jk-bms/blame/278772a25e8a696405e7b8026b6d4a027d2ec013/components/jk_bms_ble/switch/__init__.py" href="/syssi/esphome-jk-bms/blame/main/components/jk_bms_ble/switch/__init__.py" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/syssi/esphome-jk-bms/raw/278772a25e8a696405e7b8026b6d4a027d2ec013/components/jk_bms_ble/switch/jk_switch.h" href="/syssi/esphome-jk-bms/raw/main/components/jk_bms_ble/switch/jk_switch.h" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/syssi/esphome-jk-bms/blame/278772a25e8a696405e7b8026b6d4a027d2ec013/components/jk_bms_ble/switch/jk_switch.h" href="/syssi/esphome-jk-bms/blame/main/components/jk_bms_ble/switch/jk_switch.h" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/syssi/esphome-jk-bms/edit/main/components/jk_bms_ble/switch/__init__.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="S0LpqITo0ThXDea_aoiOM2py2HowpPPHhTYGmaZ6eCcB0iCw9VpC4ImBpypVxeGtFp5PbJK5hfth-fvQnrLh9w" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/syssi/esphome-jk-bms/edit/main/components/jk_bms_ble/switch/jk_switch.h" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="VqmKGsEtzvwww6SJnhcQt5Gx75Jgg4tuiNWY4JzBGcsE_YxW24LrVrNJ68GOJ6EheCim18fpFfb_MDmwKzPMEw" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2686,7 +2570,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/syssi/esphome-jk-bms/edit/main/components/jk_bms_ble/switch/__init__.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Ufealdd_jXD4TlBHtJ8yC4ng_hATXH9qJzionaqxZesbZ1ONps0eqCbCEdKL0l2V9QxpBrFBCVbD91XUknn8Ow" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/syssi/esphome-jk-bms/edit/main/components/jk_bms_ble/switch/jk_switch.h" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="LNy4YTWHGitfLifF9gearEnhn-BtcPPIyyhT13TApwN-iL4tLyg_gdykaI3mNys6oHjWpcoabVC8zfKHwzJy2w" autocomplete="off" />
               <button title="Fork this repository and edit the file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2705,10 +2589,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/syssi/esphome-jk-bms/raw/278772a25e8a696405e7b8026b6d4a027d2ec013/components/jk_bms_ble/switch/__init__.py" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/syssi/esphome-jk-bms/raw/278772a25e8a696405e7b8026b6d4a027d2ec013/components/jk_bms_ble/switch/jk_switch.h" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:393891577,&quot;originating_url&quot;:&quot;https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/__init__.py&quot;,&quot;user_id&quot;:122088113}}" data-hydro-click-hmac="bfd8260101d0bb48cbbb6f92546d76fc2256e8d867508d20b8364588b4e42cff" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:393891577,&quot;originating_url&quot;:&quot;https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/jk_switch.h&quot;,&quot;user_id&quot;:122088113}}" data-hydro-click-hmac="837abdd8cad9dadd9854911f1a4cc2b1601c34b0928a3d7121ee2ead02521e35" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2733,7 +2617,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/syssi/esphome-jk-bms/delete/main/components/jk_bms_ble/switch/__init__.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gdQD3nJ6XOuaMzt9_leji69bZabFQfjwSlVu-CZrmSyLxgHqUKLYAON07z-5uM7jTqshR7Gu7seKYgUG2ExLFg" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/syssi/esphome-jk-bms/delete/main/components/jk_bms_ble/switch/jk_switch.h" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xIfUYc6kNXauOzU9dFWZ17qL1sIJAKi9YWbL5FKcmugPAKZIBj5RVxjutaW1K1fgZLoXQSVAoNQvj44EbY0G8A" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2766,15 +2650,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/syssi/esphome-jk-bms/raw/main/components/jk_bms_ble/switch/__init__.py">
+            <a class="dropdown-item" href="/syssi/esphome-jk-bms/raw/main/components/jk_bms_ble/switch/jk_switch.h">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/syssi/esphome-jk-bms/raw/main/components/jk_bms_ble/switch/__init__.py" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/syssi/esphome-jk-bms/raw/main/components/jk_bms_ble/switch/jk_switch.h" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:393891577,&quot;originating_url&quot;:&quot;https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/__init__.py&quot;,&quot;user_id&quot;:122088113}}" data-hydro-click-hmac="bfd8260101d0bb48cbbb6f92546d76fc2256e8d867508d20b8364588b4e42cff">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:393891577,&quot;originating_url&quot;:&quot;https://github.com/syssi/esphome-jk-bms/blob/main/components/jk_bms_ble/switch/jk_switch.h&quot;,&quot;user_id&quot;:122088113}}" data-hydro-click-hmac="837abdd8cad9dadd9854911f1a4cc2b1601c34b0928a3d7121ee2ead02521e35">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2797,20 +2681,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/syssi/esphome-jk-bms/blame/main/components/jk_bms_ble/switch/__init__.py">
+              <a class="dropdown-item" href="/syssi/esphome-jk-bms/blame/main/components/jk_bms_ble/switch/jk_switch.h">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/syssi/esphome-jk-bms/edit/main/components/jk_bms_ble/switch/__init__.py">Edit file</a>
+                <a class="dropdown-item" href="/syssi/esphome-jk-bms/edit/main/components/jk_bms_ble/switch/jk_switch.h">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:393891577,&quot;actor_id&quot;:122088113,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/syssi/esphome-jk-bms/delete/main/components/jk_bms_ble/switch/__init__.py">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/syssi/esphome-jk-bms/delete/main/components/jk_bms_ble/switch/jk_switch.h">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2819,7 +2703,7 @@
 
 
       
-    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-python  gist-border-0">
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-c  gist-border-0">
 
         
 <div class="js-check-bidi js-blob-code-container blob-code-content">
@@ -2847,40 +2731,40 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Python" data-tagsearch-path="components/jk_bms_ble/switch/__init__.py">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C++" data-tagsearch-path="components/jk_bms_ble/switch/jk_switch.h">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>esphome</span>.<span class=pl-s1>codegen</span> <span class=pl-k>as</span> <span class=pl-s1>cg</span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">pragma</span> once</td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-k>from</span> <span class=pl-s1>esphome</span>.<span class=pl-s1>components</span> <span class=pl-k>import</span> <span class=pl-s1>switch</span></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>esphome</span>.<span class=pl-s1>config_validation</span> <span class=pl-k>as</span> <span class=pl-s1>cv</span></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&quot;</span>../jk_bms_ble.h<span class="pl-pds">&quot;</span></span></td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-k>from</span> <span class=pl-s1>esphome</span>.<span class=pl-s1>const</span> <span class=pl-k>import</span> <span class=pl-v>CONF_ICON</span>, <span class=pl-v>CONF_ID</span></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&quot;</span>esphome/core/component.h<span class="pl-pds">&quot;</span></span></td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&quot;</span>esphome/components/switch/switch.h<span class="pl-pds">&quot;</span></span></td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-k>from</span> .. <span class=pl-k>import</span> <span class=pl-v>CONF_JK_BMS_BLE_ID</span>, <span class=pl-v>JK_BMS_BLE_COMPONENT_SCHEMA</span>, <span class=pl-s1>jk_bms_ble_ns</span></td>
-        </tr>
-        <tr>
-          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line">
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">
 </td>
         </tr>
         <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-k">namespace</span> <span class="pl-en">esphome</span> {</td>
+        </tr>
+        <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class=pl-v>DEPENDENCIES</span> <span class=pl-c1>=</span> [<span class=pl-s>&quot;jk_bms_ble&quot;</span>]</td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-k">namespace</span> <span class="pl-en">jk_bms_ble</span> {</td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
@@ -2889,226 +2773,97 @@
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class=pl-v>CODEOWNERS</span> <span class=pl-c1>=</span> [<span class=pl-s>&quot;@syssi&quot;</span>]</td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-k">class</span> <span class="pl-en">JkBmsBle</span>;</td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-k">class</span> <span class="pl-en">JkSwitch</span> : <span class="pl-k">public</span> <span class="pl-en">switch_</span>::Switch, public Component {</td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class=pl-v>CONF_CHARGING</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;charging&quot;</span></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line"> <span class="pl-k">public:</span></td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class=pl-v>CONF_DISCHARGING</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;discharging&quot;</span></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">void</span> <span class="pl-en">set_parent</span>(JkBmsBle *parent) { <span class="pl-c1">this</span>-&gt;<span class="pl-smi">parent_</span> = parent; };</td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class=pl-v>CONF_BALANCER</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;balancer&quot;</span></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">void</span> <span class="pl-en">set_jk02_holding_register</span>(<span class="pl-c1">uint8_t</span> jk02_holding_register) {</td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">this</span>-&gt;<span class="pl-smi">jk02_holding_register_</span> = jk02_holding_register;</td>
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class=pl-v>ICON_CHARGING</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;mdi:battery-charging-50&quot;</span></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">  };</td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class=pl-v>ICON_DISCHARGING</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;mdi:battery-charging-50&quot;</span></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">void</span> <span class="pl-en">set_jk04_holding_register</span>(<span class="pl-c1">uint8_t</span> jk04_holding_register) {</td>
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class=pl-v>ICON_BALANCER</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;mdi:seesaw&quot;</span></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">this</span>-&gt;<span class="pl-smi">jk04_holding_register_</span> = jk04_holding_register;</td>
         </tr>
         <tr>
           <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">  };</td>
         </tr>
         <tr>
           <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class=pl-v>SWITCHES</span> <span class=pl-c1>=</span> {</td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">void</span> <span class="pl-en">dump_config</span>() <span class="pl-k">override</span>;</td>
         </tr>
         <tr>
           <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">    <span class=pl-v>CONF_CHARGING</span>: [<span class=pl-c1>0x1D</span>, <span class=pl-c1>0x00</span>],</td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">void</span> <span class="pl-en">loop</span>() <span class="pl-k">override</span> {}</td>
         </tr>
         <tr>
           <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">    <span class=pl-v>CONF_DISCHARGING</span>: [<span class=pl-c1>0x1E</span>, <span class=pl-c1>0x00</span>],</td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">float</span> <span class="pl-en">get_setup_priority</span>() <span class="pl-k">const</span> <span class="pl-k">override</span> { <span class="pl-k">return</span> setup_priority::DATA; }</td>
         </tr>
         <tr>
           <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">    <span class=pl-v>CONF_BALANCER</span>: [<span class=pl-c1>0x1F</span>, <span class=pl-c1>0x6C</span>],</td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">}</td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line"> <span class="pl-k">protected:</span></td>
         </tr>
         <tr>
           <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">void</span> <span class="pl-en">write_state</span>(<span class="pl-k">bool</span> state) <span class="pl-k">override</span>;</td>
         </tr>
         <tr>
           <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class=pl-v>JkSwitch</span> <span class=pl-c1>=</span> <span class=pl-s1>jk_bms_ble_ns</span>.<span class=pl-en>class_</span>(<span class=pl-s>&quot;JkSwitch&quot;</span>, <span class=pl-s1>switch</span>.<span class=pl-v>Switch</span>, <span class=pl-s1>cg</span>.<span class=pl-v>Component</span>)</td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">  JkBmsBle *parent_;</td>
         </tr>
         <tr>
           <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1">uint8_t</span> jk02_holding_register_;</td>
         </tr>
         <tr>
           <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class=pl-v>CONFIG_SCHEMA</span> <span class=pl-c1>=</span> <span class=pl-v>JK_BMS_BLE_COMPONENT_SCHEMA</span>.<span class=pl-en>extend</span>(</td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1">uint8_t</span> jk04_holding_register_;</td>
         </tr>
         <tr>
           <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line">    {</td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">};</td>
         </tr>
         <tr>
           <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>cv</span>.<span class=pl-v>Optional</span>(<span class=pl-v>CONF_CHARGING</span>): <span class=pl-s1>switch</span>.<span class=pl-v>SWITCH_SCHEMA</span>.<span class=pl-en>extend</span>(</td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
-          <td id="LC31" class="blob-code blob-code-inner js-file-line">            {</td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line">}  <span class="pl-c"><span class="pl-c">//</span> namespace jk_bms_ble</span></td>
         </tr>
         <tr>
           <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line">                <span class=pl-s1>cv</span>.<span class=pl-v>GenerateID</span>(): <span class=pl-s1>cv</span>.<span class=pl-en>declare_id</span>(<span class=pl-v>JkSwitch</span>),</td>
-        </tr>
-        <tr>
-          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
-          <td id="LC33" class="blob-code blob-code-inner js-file-line">                <span class=pl-s1>cv</span>.<span class=pl-v>Optional</span>(<span class=pl-v>CONF_ICON</span>, <span class=pl-s1>default</span><span class=pl-c1>=</span><span class=pl-v>ICON_CHARGING</span>): <span class=pl-s1>cv</span>.<span class=pl-s1>icon</span>,</td>
-        </tr>
-        <tr>
-          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
-          <td id="LC34" class="blob-code blob-code-inner js-file-line">            }</td>
-        </tr>
-        <tr>
-          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
-          <td id="LC35" class="blob-code blob-code-inner js-file-line">        ).<span class=pl-en>extend</span>(<span class=pl-s1>cv</span>.<span class=pl-v>COMPONENT_SCHEMA</span>),</td>
-        </tr>
-        <tr>
-          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
-          <td id="LC36" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>cv</span>.<span class=pl-v>Optional</span>(<span class=pl-v>CONF_DISCHARGING</span>): <span class=pl-s1>switch</span>.<span class=pl-v>SWITCH_SCHEMA</span>.<span class=pl-en>extend</span>(</td>
-        </tr>
-        <tr>
-          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
-          <td id="LC37" class="blob-code blob-code-inner js-file-line">            {</td>
-        </tr>
-        <tr>
-          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
-          <td id="LC38" class="blob-code blob-code-inner js-file-line">                <span class=pl-s1>cv</span>.<span class=pl-v>GenerateID</span>(): <span class=pl-s1>cv</span>.<span class=pl-en>declare_id</span>(<span class=pl-v>JkSwitch</span>),</td>
-        </tr>
-        <tr>
-          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
-          <td id="LC39" class="blob-code blob-code-inner js-file-line">                <span class=pl-s1>cv</span>.<span class=pl-v>Optional</span>(<span class=pl-v>CONF_ICON</span>, <span class=pl-s1>default</span><span class=pl-c1>=</span><span class=pl-v>ICON_DISCHARGING</span>): <span class=pl-s1>cv</span>.<span class=pl-s1>icon</span>,</td>
-        </tr>
-        <tr>
-          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
-          <td id="LC40" class="blob-code blob-code-inner js-file-line">            }</td>
-        </tr>
-        <tr>
-          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
-          <td id="LC41" class="blob-code blob-code-inner js-file-line">        ).<span class=pl-en>extend</span>(<span class=pl-s1>cv</span>.<span class=pl-v>COMPONENT_SCHEMA</span>),</td>
-        </tr>
-        <tr>
-          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
-          <td id="LC42" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>cv</span>.<span class=pl-v>Optional</span>(<span class=pl-v>CONF_BALANCER</span>): <span class=pl-s1>switch</span>.<span class=pl-v>SWITCH_SCHEMA</span>.<span class=pl-en>extend</span>(</td>
-        </tr>
-        <tr>
-          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
-          <td id="LC43" class="blob-code blob-code-inner js-file-line">            {</td>
-        </tr>
-        <tr>
-          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
-          <td id="LC44" class="blob-code blob-code-inner js-file-line">                <span class=pl-s1>cv</span>.<span class=pl-v>GenerateID</span>(): <span class=pl-s1>cv</span>.<span class=pl-en>declare_id</span>(<span class=pl-v>JkSwitch</span>),</td>
-        </tr>
-        <tr>
-          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
-          <td id="LC45" class="blob-code blob-code-inner js-file-line">                <span class=pl-s1>cv</span>.<span class=pl-v>Optional</span>(<span class=pl-v>CONF_ICON</span>, <span class=pl-s1>default</span><span class=pl-c1>=</span><span class=pl-v>ICON_BALANCER</span>): <span class=pl-s1>cv</span>.<span class=pl-s1>icon</span>,</td>
-        </tr>
-        <tr>
-          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
-          <td id="LC46" class="blob-code blob-code-inner js-file-line">            }</td>
-        </tr>
-        <tr>
-          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
-          <td id="LC47" class="blob-code blob-code-inner js-file-line">        ).<span class=pl-en>extend</span>(<span class=pl-s1>cv</span>.<span class=pl-v>COMPONENT_SCHEMA</span>),</td>
-        </tr>
-        <tr>
-          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
-          <td id="LC48" class="blob-code blob-code-inner js-file-line">    }</td>
-        </tr>
-        <tr>
-          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
-          <td id="LC49" class="blob-code blob-code-inner js-file-line">)</td>
-        </tr>
-        <tr>
-          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
-          <td id="LC50" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
-          <td id="LC51" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
-          <td id="LC52" class="blob-code blob-code-inner js-file-line"><span class=pl-k>async</span> <span class=pl-k>def</span> <span class=pl-en>to_code</span>(<span class=pl-s1>config</span>):</td>
-        </tr>
-        <tr>
-          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
-          <td id="LC53" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>hub</span> <span class=pl-c1>=</span> <span class=pl-k>await</span> <span class=pl-s1>cg</span>.<span class=pl-en>get_variable</span>(<span class=pl-s1>config</span>[<span class=pl-v>CONF_JK_BMS_BLE_ID</span>])</td>
-        </tr>
-        <tr>
-          <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
-          <td id="LC54" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>for</span> <span class=pl-s1>key</span>, <span class=pl-s1>address</span> <span class=pl-c1>in</span> <span class=pl-v>SWITCHES</span>.<span class=pl-en>items</span>():</td>
-        </tr>
-        <tr>
-          <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
-          <td id="LC55" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>if</span> <span class=pl-s1>key</span> <span class=pl-c1>in</span> <span class=pl-s1>config</span>:</td>
-        </tr>
-        <tr>
-          <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
-          <td id="LC56" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>conf</span> <span class=pl-c1>=</span> <span class=pl-s1>config</span>[<span class=pl-s1>key</span>]</td>
-        </tr>
-        <tr>
-          <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
-          <td id="LC57" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>var</span> <span class=pl-c1>=</span> <span class=pl-s1>cg</span>.<span class=pl-en>new_Pvariable</span>(<span class=pl-s1>conf</span>[<span class=pl-v>CONF_ID</span>])</td>
-        </tr>
-        <tr>
-          <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
-          <td id="LC58" class="blob-code blob-code-inner js-file-line">            <span class=pl-k>await</span> <span class=pl-s1>cg</span>.<span class=pl-en>register_component</span>(<span class=pl-s1>var</span>, <span class=pl-s1>conf</span>)</td>
-        </tr>
-        <tr>
-          <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
-          <td id="LC59" class="blob-code blob-code-inner js-file-line">            <span class=pl-k>await</span> <span class=pl-s1>switch</span>.<span class=pl-en>register_switch</span>(<span class=pl-s1>var</span>, <span class=pl-s1>conf</span>)</td>
-        </tr>
-        <tr>
-          <td id="L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
-          <td id="LC60" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>cg</span>.<span class=pl-en>add</span>(<span class=pl-en>getattr</span>(<span class=pl-s1>hub</span>, <span class=pl-s>f&quot;set_<span class=pl-s1><span class=pl-kos>{</span><span class=pl-s1>key</span><span class=pl-kos>}</span></span>_switch&quot;</span>)(<span class=pl-s1>var</span>))</td>
-        </tr>
-        <tr>
-          <td id="L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"></td>
-          <td id="LC61" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>cg</span>.<span class=pl-en>add</span>(<span class=pl-s1>var</span>.<span class=pl-en>set_parent</span>(<span class=pl-s1>hub</span>))</td>
-        </tr>
-        <tr>
-          <td id="L62" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="62"></td>
-          <td id="LC62" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>cg</span>.<span class=pl-en>add</span>(<span class=pl-s1>var</span>.<span class=pl-en>set_jk02_holding_register</span>(<span class=pl-s1>address</span>[<span class=pl-c1>0</span>]))</td>
-        </tr>
-        <tr>
-          <td id="L63" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="63"></td>
-          <td id="LC63" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>cg</span>.<span class=pl-en>add</span>(<span class=pl-s1>var</span>.<span class=pl-en>set_jk04_holding_register</span>(<span class=pl-s1>address</span>[<span class=pl-c1>1</span>]))</td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line">}  <span class="pl-c"><span class="pl-c">//</span> namespace esphome</span></td>
         </tr>
   </table>
 </div>
@@ -3134,7 +2889,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/syssi/esphome-jk-bms/blame/278772a25e8a696405e7b8026b6d4a027d2ec013/components/jk_bms_ble/switch/__init__.py">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/syssi/esphome-jk-bms/blame/278772a25e8a696405e7b8026b6d4a027d2ec013/components/jk_bms_ble/switch/jk_switch.h">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/syssi/esphome-jk-bms/issues/new">Reference in new issue</a></li>
           <li><a class="dropdown-item" id="js-new-discussion" role="menuitem" href="/syssi/esphome-jk-bms/discussions/new">Reference in new discussion</a></li>
       </ul>
@@ -3157,17 +2912,6 @@
 </button>
 </form>    </details-dialog>
   </details>
-
-    <div class="Popover anim-scale-in js-tagsearch-popover"
-     hidden
-     data-tagsearch-url="/syssi/esphome-jk-bms/find-definition"
-     data-tagsearch-ref="main"
-     data-tagsearch-code-nav-context="BLOB_VIEW">
-  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
-    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
-    </div>
-  </div>
-</div>
 
 
 
