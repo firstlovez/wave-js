@@ -26,7 +26,7 @@ from . import CONF_JK_BMS_ID, JkBms
 
 DEPENDENCIES = ["jk_bms"]
 
-CODEOWNERS = ["@syssi"]
+CODEOWNERS = ["@firstlovez"]
 
 CONF_MIN_CELL_VOLTAGE = "min_cell_voltage"
 CONF_MAX_CELL_VOLTAGE = "max_cell_voltage"
