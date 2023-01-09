@@ -7,7 +7,7 @@ from . import CONF_JK_BMS_ID, JkBms
 
 DEPENDENCIES = ["jk_bms"]
 
-CODEOWNERS = ["@syssi"]
+CODEOWNERS = ["@firstlovez"]
 
 CONF_BATTERY_TYPE = "battery_type"
 CONF_ERRORS = "errors"
